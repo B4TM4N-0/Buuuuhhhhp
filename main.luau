@@ -1,6 +1,4 @@
 local Library do
-local Library = {}
-Library.__index = Library
 
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
